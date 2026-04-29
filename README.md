@@ -52,7 +52,7 @@ plt.show()
 ```
 
 ## Output:
-<img width="806" height="605" alt="Screenshot 2026-04-29 111328" src="https://github.com/user-attachments/assets/ac820ec7-80e1-4bd7-a44b-b041a2ea3c8f" />
+<img width="748" height="580" alt="Screenshot 2026-04-29 111728" src="https://github.com/user-attachments/assets/95e79ca9-3b0c-4e13-a017-8026b93e4178" />
 
 
 ## Result:
